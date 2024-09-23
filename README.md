@@ -1,9 +1,13 @@
 # DS4002-Project1
 
 ## Software and Platform
-* Python-based Jupyter notebook
-* These are the individual packages installed
-  * testing
+* Development was performed in a Python-based Jupyter notebook
+* The following Python packages imported 
+  * Pandas
+  * Matplotlib
+  * Seaborn
+  * NumPy
+  * Scikit-Learn
 * Platform was the Google Colab Runtime Environment
 
 ## Documentation
