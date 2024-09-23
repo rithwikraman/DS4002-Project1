@@ -1,4 +1,9 @@
-# DS4002 Project 1 - Team Mango - ChatGPT Sentiment Analysis
+# DS4002 Project 1 - Sentiment Analysis
+
+## Team Mango:
+* Rithwik Raman
+* Pranav Arora
+* Ayush Acharya
 
 ## Software and Platform
 * Development was performed in a Python-based Jupyter notebook.
