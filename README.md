@@ -3,7 +3,7 @@
 ## Software and Platform
 * Python-based Jupyter notebook
 * These are the individual packages installed
-** testing
+  * testing
 * Platform was the Google Colab Runtime Environment
 
 ## Documentation
