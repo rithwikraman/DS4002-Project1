@@ -1,4 +1,4 @@
-# DS4002 Project 1 - Sentiment Analysis
+# DS4002 Project 1 - ChatGPT Sentiment Analysis
 
 ## Team Mango:
 * Rithwik Raman
