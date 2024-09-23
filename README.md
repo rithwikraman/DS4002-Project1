@@ -1,4 +1,4 @@
-# DS4002-Project1
+# DS4002 Project 1 - Team Mango - ChatGPT Sentiment Analysis
 
 ## Software and Platform
 * Development was performed in a Python-based Jupyter notebook.
