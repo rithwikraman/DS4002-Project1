@@ -18,7 +18,7 @@
 ## Documentation
 
 ## Reproducing these Results
-* Download the dataset from: [https://www.kaggle.com/datasets/humairmunir/chatgpt-reviews](url)
+* Download the dataset from: https://github.com/rithwikraman/DS4002-Project1/blob/main/DATA/GPT_reviews.csv
 * Upload it to your Google Colab Runtime Environment
 * Update .read_csv() to direct to the location of your dataset
 * Run the Jupyter Notebook and view the results
