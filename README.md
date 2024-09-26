@@ -19,6 +19,9 @@
 
 ## Reproducing these Results
 * Download the dataset from: https://github.com/rithwikraman/DS4002-Project1/blob/main/DATA/GPT_reviews.csv
+* Download the LDA result dataset from: https://github.com/rithwikraman/DS4002-Project1/blob/main/DATA/Review_groups_output.csv
 * Upload it to your Google Colab Runtime Environment
-* Update .read_csv() to direct to the location of your dataset
+* Update .read_csv() to the location of your GPT_reviews.csv dataset
+* Run the scripts until cell 19. 
+* Once you reach the LDA analysis portion within the script (Cell 19), update the read_csv() to the location of your Review_groups_output.csv
 * Run the Jupyter Notebook and view the results
