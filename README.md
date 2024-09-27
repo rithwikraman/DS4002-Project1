@@ -5,6 +5,8 @@
 * Pranav Arora
 * Ayush Acharya
 
+## This repository contains our project's datasets, scripts, and generated visualizations. The project analyzed user sentiment and experiences across different app versions within the Google Play Store’s ChatGPT app.
+
 ## Software and Platform
 * Development was performed in a Python-based Jupyter notebook.
 * The following Python packages imported:
@@ -13,7 +15,9 @@
   * Seaborn
   * NumPy
   * Scikit-Learn
-* Scripts were ran on the Google Colab Runtime Environment platform.
+  * NLTK
+  * Re
+* Scripts were run on the Google Colab Runtime Environment platform.
 
 ## Map of Documentation
 ### DS4002-Project1
