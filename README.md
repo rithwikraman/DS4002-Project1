@@ -5,7 +5,8 @@
 * Pranav Arora
 * Ayush Acharya
 
-## This repository contains our project's datasets, scripts, and generated visualizations. The project analyzed user sentiment and experiences across different app versions within the Google Play Store’s ChatGPT app.
+## Description
+### This repository contains our project's datasets, scripts, and generated visualizations. The project analyzed user sentiment and experiences across different app versions within the Google Play Store’s ChatGPT app.
 
 ## Software and Platform
 * Development was performed in a Python-based Jupyter notebook.
