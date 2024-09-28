@@ -26,6 +26,7 @@
   * GPT_reviews.csv
   * Review_groups_output.csv
   * final_review_groups_output.csv
+  * Data Appendix.pdf
 * OUTPUT
   * Avg_Rating_Per_App.png
   * LDA_Group_Distribution_Per_App.png
